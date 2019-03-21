@@ -5,7 +5,7 @@ assumed to be sequential.
 This code is not optimizied or  vectorized by numpy. All the for loops are to ensure that the algorithm works correctly.
 
 
-The converge of maximum likelihood of train and testing data can be seen at the EM_HMM_Graph.png
+The converge of maximum log likelihood of train and testing data can be seen at the EM_HMM_Graph.png
 
 
 Knowledge refernce:
